@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 250" enable-background="new 0 0 300 250" xml:space="preserve">
+<g id="Grupo_3234" transform="translate(-383 -741)">
+	<g id="Rectángulo_77" transform="translate(383 741)">
+		<rect fill="#FFFFFF" width="300" height="250"/>
+		<rect x="1.5" y="1.5" fill="none" stroke="#CECECE" stroke-width="3" width="297" height="247"/>
+	</g>
+	<text transform="matrix(1 0 0 1 476.339 907)" font-family="'Roboto-Bold'" font-size="17">Texto principal</text>
+	<text transform="matrix(1 0 0 1 479.522 931)" font-family="'Roboto-Regular'" font-size="14">Texto secundario</text>
+	<g id="Grupo_3195" transform="translate(0 33)">
+		<path id="Rectángulo_207" fill="#006CA5" d="M483,913h100c8.3,0,15,6.7,15,15l0,0c0,8.3-6.7,15-15,15H483c-8.3,0-15-6.7-15-15
+			l0,0C468,919.7,474.7,913,483,913z"/>
+		<text transform="matrix(1 0 0 1 484.557 932)" fill="#FFFFFF" font-family="'Roboto-Medium'" font-size="14">Texto del botón</text>
+	</g>
+</g>
+<image width="300" height="140" xlink:href="300x140.jpg" >
+</image>
+</svg>
